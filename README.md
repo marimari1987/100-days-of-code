@@ -5,7 +5,7 @@ https://www.udemy.com/course/100-days-of-code/<br>
 As a preparation before I started to study at the university I took part at an online training to learn the basics of programming.
 Those projects are the results of my online study.
 For better understanding the covered topics I sorted them by basics, librarys and aditional languages.
-Not all if the programms may be runnable from github bebause not all files may be encluded due to security hazards.
+Not all of the programms may be runnable from github bebause not all files may be encluded due to security hazards.
 This repositorys purpose is to give an overall view of skills I trained on my own for further studies.
 ## 1. Basics ##
 - us-states-game: pathrelations
