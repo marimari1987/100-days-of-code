@@ -2,11 +2,13 @@
 
 https://www.udemy.com/course/100-days-of-code/<br>
 
-As a preparation before I started to study at the university I took part at an online training to learn the basics of programming.
-Those projects are the results of my online study.
-For better understanding the covered topics I sorted them by basics, librarys and aditional languages.
-Not all of the programms may be runnable from github bebause not all files may be encluded due to security hazards.
-This repositorys purpose is to give an overall view of skills I trained on my own for further studies.
+As preparation for my university studies, I completed an online course to learn the basics of programming.  
+This repository contains the results of that training.
+
+To make the covered topics easier to follow, I listed them in this README by categories such as basics, libraries, and additional languages. 
+Note: Not all programs may run directly from GitHub, as some required files were excluded for security reasons.
+
+The purpose of this repository is to give an overview of the skills I practiced independently in preparation for further academic work.
 ## 1. Basics ##
 - us-states-game: pathrelations
 - coffee-machine: dictionarys
